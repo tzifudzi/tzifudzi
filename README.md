@@ -1,5 +1,5 @@
-### Hi there 👋
-# I am Tatenda Zifudzi 👋
+## Hi there 👋
+### I am Tatenda Zifudzi 👋
 
 - 💼 I work full-time at [Entelect](https://entelect.co.za/)
 - 🔭 I’m currently working on ...
